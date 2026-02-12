@@ -1,6 +1,6 @@
 ## Hi there 👋
-Aspiring Developer
+Developer in the making
 
 ## 🛠️ Skills/Software Familiar With
-<img src="https://skillicons.dev/icons?i=rust,python,java,vscode,intellij,vim,linux,ubuntu,git,cloudflare" height="40">
+<img src="https://skillicons.dev/icons?i=rust,python,java,vscode,vim,linux,ubuntu,git,cloudflare" height="60">
 
