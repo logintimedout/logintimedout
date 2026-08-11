@@ -1,5 +1,5 @@
 ## Hi There 👋
 
 ## 🛠️ Skills/Software
-<img src="https://skillicons.dev/icons?i=rust,python,linux,ubuntu,git,cloudflare" height="60">
+<img src="https://skillicons.dev/icons?i=rust,python,java,linux,ubuntu,git,cloudflare" height="60">
 
